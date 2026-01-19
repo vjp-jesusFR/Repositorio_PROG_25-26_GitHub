@@ -40,7 +40,8 @@ public class T7ENTREGAR {
         for (int i = 0; i < vector.length; i++) {//Con un bucle for se recorre el vector
             for (int j = i + 1; j < vector.length; j++) {
                 if (vector[i] == vector[j]) {
-                    vector[j] = 0; // Con el segundo bucle for se recorre el vector y se sustituyen las cifras repetidas por un 0
+                    vector[i]= 0; // Con el segundo bucle for se recorre el vector y se sustituyen las cifras repetidas por un 0
+                    vector[j]= 0; 
                 }
             }
         }
