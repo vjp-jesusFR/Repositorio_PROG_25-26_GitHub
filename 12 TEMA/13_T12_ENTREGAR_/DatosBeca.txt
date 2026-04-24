@@ -1,0 +1,5 @@
+Fer Faro, edad: 55, sexo: h, suspensos curso anterior: 0, ¿tiene residencia familiar?: true, , ingresos anuales: 10100
+Paco Caro, edad: 23, sexo: h, suspensos curso anterior: 2, ¿tiene residencia familiar?: false, , ingresos anuales: 12000
+Carlos de Miguel, edad: 32, sexo: h, suspensos curso anterior: 1, ¿tiene residencia familiar?: no, , ingresos anuales: 23444
+Ana Blanca, edad: 43, sexo: m, suspensos curso anterior: 2, ¿tiene residencia familiar?: no, , ingresos anuales: 44333
+Alma Ramos, edad: 21, sexo: m, suspensos curso anterior: 1, ¿tiene residencia familiar?: si, , ingresos anuales: 17000
